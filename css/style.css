@@ -1,0 +1,28 @@
+body{
+    padding: 25px;
+    font-family: sans-serif;
+    background-color: #383b51;
+    color: #d2e2d4;
+}
+
+div {
+    margin: auto;
+    width: 30%;
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    border: #9c9baa solid 3px;
+    border-radius: 10px;
+    background-color: #606275;
+}
+
+table, td{
+    padding: 20px;
+}
+
+p {
+    font-size: large;
+    font-weight: 700;
+}
